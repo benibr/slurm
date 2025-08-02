@@ -63,7 +63,7 @@
 #include "src/plugins/cgroup/v2/cgroup_dbus.h"
 #include "src/plugins/cgroup/v2/ebpf.h"
 
-#define SYSTEM_CGSLICE "system.slice"
+#define SYSTEM_CGSLICE "slurm.slice"
 #define SYSTEM_CGSCOPE "slurmstepd"
 #define SYSTEM_CGDIR "system"
 
